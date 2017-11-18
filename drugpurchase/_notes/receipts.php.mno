@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_receipts" value="name:Licensee_Hqs;datatype:int,name:LId;datatype:int,name:Created;datatype:datetime,name:Creator;datatype:int,name:Order_No;datatype:string,name:Supplier;datatype:int,name:Receipt_No;datatype:string,name:Receipted;datatype:datetime,name:Total_Cost;datatype:real,name:upsize_ts;datatype:timestamp,name:Client_FK;datatype:int,name:formatted_date;datatype:string" />
+</info>

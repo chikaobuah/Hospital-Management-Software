@@ -1,0 +1,203 @@
+
+/**********drug_providers**********/
+table.collapse {border-collapse: collapse;}
+
+
+#drug_providers{
+border-left : solid 2px #224466; 
+color:#224466;
+width : 100%; 
+height : 100%; 
+overflow : auto; 
+overflow-x: hidden;
+-ms-overflow-x: hidden;
+position: absolute;
+   		top: 0%;
+        left: 0%;
+        float: left;
+        width: 15%;
+		height:450px;
+		text-align:left;
+}
+
+
+#drug_providers a{
+display: block;
+width: 100%;
+text-decoration: none;
+font-weight: bold;
+/*border-bottom: 0px solid gray;*/
+color:#224466;
+}
+
+#drug_providers a.simple{
+display: block;
+width: 100%;
+height:25px;
+text-decoration: none;
+font-weight: bold;
+background-image:url(../client/nav-bg.png); 
+background-repeat:repeat-x;
+color:#224466;
+}
+
+#drug_providers a.simple:hover{
+background-color:#84B8D0;
+}
+
+#drug_providers a:hover{
+background-color:#84B8D0;
+}
+
+#drug_providers a.home{
+	background:url(../images/icons/list_normal.png ) no-repeat 0 0; width:15px; height:15px; 
+	border-bottom: 0px solid gray;
+	}
+#drug_providers a.home:hover{
+	background:url(../images/icons/list_selected.png) no-repeat 0 0; width:15px; height:15px;
+	border-bottom: 0px solid gray;
+	}
+#drug_providers a.no{
+	width: 15%;
+	float:right;
+	border-bottom: 0px solid gray;
+	}
+
+/**********drug_receipts**********/
+table.collapse {border-collapse: collapse;}
+
+
+#drug_receipts{
+border-left : solid 2px #224466; 
+color:#224466;
+width : 100%; 
+height : 100%; 
+overflow : auto; 
+overflow-x: hidden;
+-ms-overflow-x: hidden;
+position: absolute;
+   		top: 0%;
+        left: 15%;
+        float: left;
+        width: 30%;
+		height:450px;
+		text-align:left;
+}
+
+
+#drug_receipts a{
+display: block;
+width: 100%;
+text-decoration: none;
+font-weight: bold;
+/*border-bottom: 0px solid gray;*/
+color:#224466;
+}
+
+#drug_receipts a.simple{
+display: block;
+width: 100%;
+height:25px;
+text-decoration: none;
+font-weight: bold;
+background-image:url(../client/nav-bg.png); 
+background-repeat:repeat-x;
+color:#224466;
+}
+
+#drug_receipts a.simple:hover{
+background-color:#84B8D0;
+}
+
+#drug_receipts a:hover{
+background-color:#84B8D0;
+}
+
+#drug_receipts a.home{
+	background:url(../images/icons/list_normal.png ) no-repeat 0 0; width:15px; height:15px; 
+	border-bottom: 0px solid gray;
+	}
+#drug_receipts a.home:hover{
+	background:url(../images/icons/list_selected.png) no-repeat 0 0; width:15px; height:15px;
+	border-bottom: 0px solid gray;
+	}
+#drug_receipts a.no{
+	width: 15%;
+	float:right;
+	border-bottom: 0px solid gray;
+	}
+	
+	/**********drug_orders**********/
+table.collapse {border-collapse: collapse;}
+
+
+#drug_orders{
+border-left : solid 2px #224466; 
+color:#224466;
+width : 100%; 
+height : 100%; 
+overflow : auto; 
+overflow-x: hidden;
+-ms-overflow-x: hidden;
+position: absolute;
+   		top: 0%;
+        left: 45%;
+        float: left;
+        width: 55%;
+		height:450px;
+		text-align:left;
+}
+
+
+#drug_orders a{
+display: block;
+width: 100%;
+text-decoration: none;
+font-weight: bold;
+/*border-bottom: 0px solid gray;*/
+color:#224466;
+}
+
+#drug_orders a.simple{
+display: block;
+width: 100%;
+height:25px;
+text-decoration: none;
+font-weight: bold;
+background-image:url(../client/nav-bg.png); 
+background-repeat:repeat-x;
+color:#224466;
+}
+
+#drug_orders a.simple:hover{
+background-color:#84B8D0;
+}
+
+#drug_orders a:hover{
+background-color:#84B8D0;
+}
+
+#drug_orders a.home{
+	background:url(../images/icons/list_normal.png ) no-repeat 0 0; width:15px; height:15px; 
+	border-bottom: 0px solid gray;
+	}
+#drug_orders a.home:hover{
+	background:url(../images/icons/list_selected.png) no-repeat 0 0; width:15px; height:15px;
+	border-bottom: 0px solid gray;
+	}
+#drug_orders a.no{
+	width: 15%;
+	float:right;
+	border-bottom: 0px solid gray;
+	}
+
+	
+
+ .error {
+  font-family: Tahoma;
+font-size: 8pt;
+  color: red;
+  margin-left: 0px;
+  display:none;
+  float:left;
+  }

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_drug" value="name:Id;datatype:int,name:Drug;datatype:string,name:Blocks;datatype:int,name:Reorder_Level;datatype:int,name:Target_Level;datatype:int,name:Measure;datatype:int,name:NAFDAC_No;datatype:string,name:Discontinued;datatype:int,name:Loading;datatype:real" />
+	<infoitem key="UD_coverdrug" value="name:Id;datatype:int,name:Drug_FK;datatype:int,name:Status;datatype:int,name:Status_Note;datatype:string,name:Capitation;datatype:real,name:Loading;datatype:real,name:Effective;datatype:int,name:License;datatype:int" />
+</info>

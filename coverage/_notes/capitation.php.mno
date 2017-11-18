@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_capitation" value="name:Amount;datatype:real,name:Notes;datatype:string,name:Licensee;datatype:int" />
+	<infoitem key="UD_capitation2" value="name:Amount;datatype:real,name:Notes;datatype:string,name:Licensee;datatype:int,name:Effective_FK;datatype:int" />
+	<infoitem key="UD_clients" value="name:Licensee_Hqs;datatype:int,name:Client_Hqs;datatype:int,name:LId;datatype:int,name:Created;datatype:datetime,name:Creator;datatype:int,name:Client;datatype:string,name:Short;datatype:string,name:Business_FK;datatype:int,name:Address;datatype:string,name:Country_FK;datatype:int,name:State_FK;datatype:int,name:LGA_FK;datatype:int,name:City;datatype:string,name:Postcode;datatype:string,name:NHIS_Reg_No;datatype:string,name:NHIS_Registered;datatype:datetime,name:Contact;datatype:string,name:Contact_Business_Phone;datatype:string,name:Contact_Mobile_Phone;datatype:string,name:Contact_Email;datatype:string,name:Contact_Job_Title;datatype:string" />
+</info>

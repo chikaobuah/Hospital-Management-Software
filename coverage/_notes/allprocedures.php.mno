@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_procedures" value="name:Id;datatype:int,name:Procedure;datatype:string,name:Blocks;datatype:int,name:Specimen;datatype:int,name:Service_direction_FK;datatype:int" />
+	<infoitem key="UD_count" value="name:counta;datatype:int" />
+	<infoitem key="UD_cover" value="name:Id;datatype:int,name:Procedure_FK;datatype:int,name:Status;datatype:int,name:Status_Note;datatype:string,name:Capitation;datatype:real,name:Tariff;datatype:real,name:Effective;datatype:int,name:Loading;datatype:real,name:License;datatype:int" />
+	<infoitem key="UD_effective" value="name:Id;datatype:int" />
+</info>

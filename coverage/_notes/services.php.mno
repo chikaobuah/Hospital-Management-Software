@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_services" value="name:Id;datatype:int,name:Service;datatype:string,name:Blocks;datatype:int,name:GL_Account;datatype:int,name:Direction;datatype:int" />
+</info>
