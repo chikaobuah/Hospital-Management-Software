@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_lablist" value="name:Short;datatype:string,name:Enrolee;datatype:int,name:Created;datatype:datetime,name:Creator;datatype:int,name:Visit;datatype:datetime,name:Status;datatype:int,name:Drug;datatype:string,name:Task_FK;datatype:int,name:Task;datatype:string,name:Sequence;datatype:int,name:Id;datatype:int,name:Service;datatype:string,name:Id;datatype:int,name:Status;datatype:int" />
+	<infoitem key="UD_lablisttwo" value="name:Short;datatype:string,name:Enrolee;datatype:int,name:Created;datatype:datetime,name:Creator;datatype:int,name:Visit;datatype:datetime,name:Status;datatype:int,name:Drug;datatype:string,name:Task_FK;datatype:int,name:Task;datatype:string,name:Sequence;datatype:int,name:Id;datatype:int,name:Service;datatype:string,name:Id;datatype:int,name:Status;datatype:int" />
+</info>

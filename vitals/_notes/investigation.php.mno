@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_providers" value="name:Client_FK;datatype:int,name:Id;datatype:int,name:Client;datatype:string,name:License;datatype:int,name:Short;datatype:string" />
+	<infoitem key="UD_idtest" value="name:Id;datatype:int,name:Effective;datatype:datetime,name:License;datatype:int" />
+	<infoitem key="UD_procedures" value="name:License;datatype:int,name:Loading;datatype:real,name:Effective;datatype:int,name:Tariff;datatype:real,name:Capitation;datatype:real,name:Status_Note;datatype:string,name:Status;datatype:int,name:Procedure_FK;datatype:int,name:Procedure;datatype:string,name:dat;datatype:datetime" />
+	<infoitem key="UD_visitpro" value="name:Enrolee;datatype:int,name:Created;datatype:datetime,name:Creator;datatype:int,name:Visit;datatype:datetime,name:Procedure;datatype:int,name:Provider;datatype:int,name:Appointment;datatype:datetime,name:Specific_Request;datatype:string,name:Specimen;datatype:int,name:Status;datatype:int,name:Client;datatype:string,name:pro;datatype:string,name:Service;datatype:string,name:Short;datatype:string" />
+	<infoitem key="UD_services" value="name:Service;datatype:string,name:Id;datatype:int" />
+	<infoitem key="UD_service" value="name:Service;datatype:string,name:Id;datatype:int,name:Blocks;datatype:int" />
+	<infoitem key="UD_service2" value="name:Service;datatype:string,name:Id;datatype:int,name:Blocks;datatype:int" />
+</info>

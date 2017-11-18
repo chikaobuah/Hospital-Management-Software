@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_results" value="name:Procedure;datatype:string,name:formatted_date;datatype:string,name:Enrolee;datatype:int,name:Created;datatype:datetime,name:Creator;datatype:int,name:Result;datatype:string,name:Result_Date;datatype:datetime,name:Result_Note;datatype:blob,name:upsize_ts;datatype:timestamp,name:Visit;datatype:datetime" />
+</info>

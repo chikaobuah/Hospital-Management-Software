@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_visit" value="name:Service;datatype:string,name:Enrolee;datatype:int,name:Created;datatype:datetime,name:Creator;datatype:int,name:service_id;datatype:int,name:LMP;datatype:datetime,name:Ticket_No;datatype:int,name:Appointed;datatype:datetime,name:Loading;datatype:real,name:upsize_ts;datatype:timestamp,name:Status;datatype:int,name:Principal;datatype:int,name:Scheme;datatype:int,name:License;datatype:int" />
+	<infoitem key="UD_visit_pre" value="name:count;datatype:int" />
+	<infoitem key="UD_visit_pro" value="name:count;datatype:int" />
+	<infoitem key="UD_transaction" value="name:count;datatype:int" />
+</info>
