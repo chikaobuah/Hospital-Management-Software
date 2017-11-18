@@ -1,0 +1,84 @@
+/* Header */
+}
+#header ul {
+	float: left;	
+	list-style: none;	
+	margin: 0;
+	padding: 0;					
+}
+#header ul li {
+	float: left;
+	margin: 0; padding: 0;			
+}
+#header ul li a:link,
+#header ul li a:visited {
+	float: left;
+	margin: 0;
+	padding: 5px 15px 10px 15px;
+	color: #666666;
+	font: bold 14px 'Trebuchet MS', Arial, Sans-Serif;
+	text-transform: uppercase;		
+	border-right: 1px solid #EEE;	
+}
+#header ul li a:hover, 
+#header ul li a:active {
+	border: none;
+	color: #000;	
+	border-right: 1px solid #EEE;
+}
+#header ul li#current a {	
+	background: transparent url(../images/current.gif) repeat-x left bottom;	
+	color: #222;	
+}
+
+#header ul li.first a:link, 
+#header ul li.first a:visited {
+	border-left: 1px solid #F1F1F1;	
+}
+
+/* start - table */
+table {
+	border-collapse: collapse;	
+}
+th, td {
+	text-align: left;			
+	border-width: 0px;
+  	border-style: solid;
+}
+th {
+	color:#999;
+  	border-color: #D8EBF5 #D8EBF5 #B9DBEE #D8EBF5;	
+}
+td {
+	border-color: #999;	
+}	
+/* end - table */
+
+/* start - lightbox */
+#lightbox{
+	background-color:#eee;
+	padding: 10px;
+	border-bottom: 2px solid #666;
+	border-right: 2px solid #666;
+	}
+#lightboxDetails{
+	font-size: 0.8em;
+	padding-top: 0.4em;
+	}	
+#lightboxCaption{ float: left; }
+#keyboardMsg{ float: right; }
+#closeButton{ top: 5px; right: 5px; }
+
+#lightbox img{ border: none; clear: both;} 
+#overlay img{ border: none; }
+
+#overlay{ background-image: url(overlay.png); }
+
+* html #overlay{
+	background-color: #333;
+	back\ground-color: transparent;
+	background-image: url(blank.gif);
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="overlay.png", sizingMethod="scale");
+	}
+
+/* end - lightbox */

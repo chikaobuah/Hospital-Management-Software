@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_recStock" value="name:Stock_Category;datatype:int,name:Generic;datatype:string,name:Unit_of_Measure;datatype:string,name:Selling_Unit_Description;datatype:string,name:Quantity_In_Pack;datatype:int,name:Unit_Cost_Price;datatype:real,name:Unit_Selling_Price;datatype:real" />
+</info>

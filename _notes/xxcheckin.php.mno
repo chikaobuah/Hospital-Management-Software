@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recvisit" value="name:Enrolee;datatype:int,name:Ticket_No;datatype:int,name:Status;datatype:int,name:id;datatype:int" />
+	<infoitem key="UD_Recenroly" value="name:Licensee;datatype:int,name:LId;datatype:int,name:Reg_No;datatype:string,name:Surname;datatype:string,name:First_Name;datatype:string,name:Gender;datatype:int,name:Marital;datatype:int" />
+	<infoitem key="UD_Recordset1" value="name:Access_Level;datatype:int" />
+</info>

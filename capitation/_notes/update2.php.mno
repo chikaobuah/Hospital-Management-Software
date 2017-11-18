@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_schemes" value="name:Licensee;datatype:int,name:LId;datatype:int,name:Created;datatype:datetime,name:Creator;datatype:int,name:Scheme;datatype:string,name:Program_FK;datatype:int,name:HMO_FK;datatype:int,name:Retainer_FK;datatype:int,name:Frequency_FK;datatype:int,name:Commenced;datatype:datetime,name:Capitation;datatype:real,name:Bed_Type_FK;datatype:int,name:Stay_duration;datatype:int,name:Status;datatype:int,name:Status_Note;datatype:string,name:upsize_ts;datatype:timestamp,name:Company_FK;datatype:int,name:Stay_frequency;datatype:int,name:Paying;datatype:real,name:Fee;datatype:int" />
+</info>

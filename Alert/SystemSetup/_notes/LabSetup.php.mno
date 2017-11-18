@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_recStock" value="name:Generic;datatype:string,name:Id;datatype:int" />
+	<infoitem key="UD_recDrug" value="name:Id;datatype:int,name:Drug;datatype:string" />
+	<infoitem key="UD_recReagent" value="name:Id;datatype:int,name:Reagent;datatype:string" />
+</info>

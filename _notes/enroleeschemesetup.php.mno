@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recprincipal" value="name:Enrolee;datatype:int" />
+	<infoitem key="UD_Recdependants" value="name:Enrolee;datatype:int,name:Principal;datatype:int,name:Status;datatype:int" />
+</info>

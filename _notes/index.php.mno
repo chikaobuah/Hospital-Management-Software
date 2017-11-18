@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_recCompany" value="name:Id;datatype:int,name:Licensee;datatype:string" />
+</info>

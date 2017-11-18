@@ -1,0 +1,417 @@
+﻿ 
+   
+   body 
+    {
+        margin:10px 0 8px 0;
+	padding:0;
+	text-align:center;
+	font-size:small;
+	font-family:"Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
+            background:url('images/bg.jpg') repeat-x #FFFFFF;
+        
+    }
+
+    
+   #container{
+	text-align:left;
+	background:#fff;
+	border:1px solid #ccc;
+	-webkit-box-shadow:rgba(0,0,0,.2) 0px 0px 5px;
+	-moz-box-shadow:rgba(0,0,0,.2) 0px 0px 5px;
+}
+#container, #bottom{
+	margin:0 auto;
+	width:640px;
+}
+#bottom{
+	width:650px;
+	height:10px !important;
+	margin-bottom:10px;
+	display:block !important;
+}
+
+form.wufoo{
+	margin:10px 10px 0 20px;
+	padding:0 0 20px 0;
+}
+
+/* ----- LOGO ----- */
+
+h1{
+	margin:0;
+	padding:0;
+	min-height:0;
+	background-color:#dedede;
+	text-indent:-9000px;
+	text-decoration:none;
+}
+h1 a{
+	min-height:40px;
+	height:40px;
+	display:block;
+	background:url(/images/wflogo.png) no-repeat left top;
+	overflow:hidden;
+}
+* html h1 a{
+	_background-image: none;
+	_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/images/wflogo.png", sizingMethod="crop");
+}
+img, a img{
+	border:none;
+	-ms-interpolation-mode: bicubic;
+}
+* html #bottom{ 
+	_behavior: url(/images/iepngfix.htc);
+}
+.hide{
+	display:none !important;
+}
+
+
+    
+    
+    #gsfx_brnd_SiteHeaderImage
+    {
+        height:0px;
+    }
+    
+    
+    
+    .gsfx_brnd_NetworkLink, .gsfx_brnd_NetworkLink:visited, .gsfx_brnd_NetworkLink a, .gsfx_brnd_NetworkLink a:visited
+    {
+        color: #FFFFFF;
+    }
+    
+    .gsfx_brnd_NetworkLink:hover, .gsfx_brnd_NetworkLink:active, .gsfx_brnd_NetworkLink:focus, 
+    .gsfx_brnd_NetworkLink a:hover, .gsfx_brnd_NetworkLink a:active, .gsfx_brnd_NetworkLink a:focus
+    #gsfx_brnd_NetworkFooter .gsfx_brnd_NetworkLink:hover span, #gsfx_brnd_NetworkFooter .gsfx_brnd_NetworkLink:active span, #gsfx_brnd_NetworkFooter.gsfx_brnd_NetworkLink:focus span, 
+    #gsfx_brnd_NetworkFooter .gsfx_brnd_NetworkLink a:hover span, #gsfx_brnd_NetworkFooter .gsfx_brnd_NetworkLink a:active span, #gsfx_brnd_NetworkFooter .gsfx_brnd_NetworkLink a:focus span
+    {
+        color: #FE5815;
+        border-bottom-color: #FE5815;
+    }
+    
+    #gsfx_brnd_NetworkHeader, #gsfx_brnd_NetworkHeaderLinks
+    {
+        color: #ffffff;
+    }
+
+    #gsfx_brnd_SiteHeader, #gsfx_brnd_PageLogoWrapper, #gsfx_brnd_PageTitle,  a, #gsfx_bsrch_poweredbycell span
+    {
+        color: #ffffff;
+    }
+    
+    #gsfx_bsrch_catsel a, #gsfx_bsrch_catsel span
+    {
+        border-color: #ffffff;
+    }
+
+    #gsfx_brnd_SiteFooter, #gsfx_brnd_SiteFooterWrap
+    {
+        color: #398DCA;
+    }
+
+    #gsfx_brnd_NetworkFooter, #gsfx_brnd_FooterLinkContainer, #gsfx_brnd_FooterLinkContainer span, 
+    #gsfx_brnd_copyright_container, #gsfx_brnd_copyright_container span
+    {
+        color: #398DCA;
+    }
+        
+    
+ #gsfx_brnd_CorpMarketingContainer
+                            {
+                                background : url('');
+                            }
+                            
+                          
+                           
+a, a:visited{    
+			color: #398dca;
+			text-decoration: none;
+			}
+
+a:hover{    
+			color: #fe5815;
+			text-decoration: underline;
+			}
+			
+h2{    		font-weight: bold;
+			font-size: 18px;
+			margin-left: 20px;
+			}
+			
+h3{    		font-weight: normal;
+			font-size: 18px;	
+			margin-left: 10px;    
+			padding: 0px;
+			margin-right: 10px;
+			margin-top: 10px;
+			margin-bottom: 2px;
+			clear: left;
+			}	
+			
+h4{   		font-size: 14px;
+			margin-left: 20px;
+			width: auto;    
+			padding: 0px;   
+			margin-top: 0px;    
+			margin-right: 0px;    
+			margin-bottom: 10px;    
+			font-weight: normal;
+			}
+			
+h5{    		padding: 0px;
+			margin-top: 0px;    
+			margin-right: 0px;   
+			margin-bottom: 10px;    
+			margin-left: 10px;    
+			color: #57A100;
+			}
+			
+#smcXcontainer{    
+			width: 996px;    
+			margin-right: auto;    
+			margin-left: auto;    
+			height: auto;    
+			background-color: #ffffff;
+			}
+			
+/* Home Page Specific SMC styles */
+#gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer .pscSearchScope{    
+			text-align: right;    
+			font-size: 12px;    
+			text-decoration: none;  
+			float: right;   
+			background-image: url(../../../library/images/support/cn/arrow_go.png);   
+			background-repeat: no-repeat;   
+			background-position: right 2px;   
+			margin-right: 20px;  
+			margin-top: 10px;   
+			}
+			
+#gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer .pscSearchScope a:link, #gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer .pscSearchScope a:visited{   			padding-right: 10px;    
+			text-decoration: none;
+			}
+			
+#gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer .smcXbanner{   
+			   
+			height: 162px;    
+			width: 849px;    
+			margin-top: 40px;    
+			margin-left: 70px;    
+			background-repeat: no-repeat;    
+			padding: 0px;    
+			background-position: left bottom;    
+			margin-bottom: 10px;    
+			clear: both;
+			}
+			
+#gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer .smcXbanner h1{    
+			font-weight: normal;   
+			margin-left: 30px;    
+			width: auto;    
+			height: auto;    
+			margin-top: 25px;   
+			margin-right: 0px;   
+			margin-bottom: 0px;   
+			font-size: 24px;    
+			color: #08436F;
+			}
+
+#gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer .smcXbanner p{    
+			font-weight: normal;    
+			margin-left: 30px;    
+			width: 50%;    
+			font-size: 12px;   
+			padding: 0px;  
+			margin-top: 0px;   
+			margin-right: 0px;    
+			margin-bottom: 0px;    
+			color: #333;   
+			line-height: 18px;
+			}
+
+#gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer .smcXleftcolumn{  
+			float: left;
+			}
+			
+/* Solution Center Button */
+#gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer .smcXTransBtn{    
+			height: auto;   
+			width: auto;   
+			float: left;   
+			font-size: 14px; 
+			margin-top: 10px;   
+			margin-left: 120px;  
+			background-color: #ffa615;   
+			color: #FFF;
+			}
+			
+#gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer .smcXTransBtn a{    
+			color: #FFF;    
+			text-decoration: none;   
+			padding-right: 20px;   
+			display: block;
+			padding-left: 20px; 
+			background-image: url(../../../library/images/support/cn/trans_btn.png);    
+			background-repeat: no-repeat;   
+			line-height: 30px;    
+			background-color: #ffa615;
+			}
+			
+#gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer .smcXTransBtn a:hover{    
+			text-decoration: underline;    
+			background-image: none;
+			}
+	
+/* Repeating region for home page */
+#gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer .smcXleftpanel{
+			margin-left: 70px;
+			width: 420px;
+			background-image: url(../../../library/images/support/cn/panel_bkgnd.png);
+			background-repeat: no-repeat;background-position: left top;
+			padding: 20px;margin-bottom: 10px;
+			}
+			
+#gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer .smcXleftpanel h3{    
+			line-height: 42px;    
+			padding-left: 0px;    
+			padding-top: 0px;   
+			padding-right: 0px;   
+			padding-bottom: 0px;   
+			margin: 0px;    
+			font-size: 14px;
+			}
+			
+#gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer .smcXleftpanel p{    
+			margin-left: 60px;   
+			padding: 0px;    
+			margin-top: 0px;    
+			margin-right: 20px;    
+			margin-bottom: 10px;    
+			font-size: 12px;
+			}
+			
+#gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer .smcXleftpanel ul{   
+			padding: 0px;    
+			margin-top: 0px;    
+			margin-right: 20px;    
+			margin-bottom: 10px;    
+			margin-left: 75px;
+			}
+			
+#gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer .smcXleftpanel li{    
+			font-size: 11px;    
+			list-style-type: disc;    
+			list-style-position: outside;    
+			color: #999;    
+			line-height: 16px;    
+			padding: 0px;    
+			margin-bottom: 2px;
+			}
+			
+#gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer .smcXleftpanel li a:link, .smcXleftpanel li a:visited{    
+			text-decoration: none;
+			}
+			
+#gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer .smcXleftpanel li a:hover{    
+			color: #fe5815;    
+			text-decoration: underline;
+			}
+
+#gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer .smcXicon{    
+			margin-right: 5px;    
+			vertical-align: top;
+			}
+			
+/* End Repeating region for home page */
+#gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer .smcXrightcolumn{    
+			width: 420px;    
+			float: left;    
+			margin-left: 10px;    
+			background-image: url(../../../library/images/support/cn/panel_bkgnd.png);    
+			background-repeat: no-repeat;    
+			padding: 20px;
+			}
+			
+#gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer .smcXrightcolumn h3{   
+			padding: 0px;    
+			margin: 0px;    
+			line-height: 42px;    
+			font-size: 14px;
+			}
+	
+#gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer .smcXrightcolumn ul{    
+			list-style-type: none;    
+			padding: 0px;   
+			margin-top: 0px;   
+			margin-right: 0px;   
+			margin-bottom: 0px;   
+			margin-left: 10px;
+			}
+			
+#gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer .smcXrightcolumn li{   
+			font-size: 11px;    
+			color: #999;    
+			background-image: url(../../../library/images/support/cn/right_li.png);   
+			background-repeat: no-repeat;    background-position: left bottom;  
+			line-height: 16px;   
+			padding-top: 6px;  
+			padding-bottom: 7px;
+			}
+			
+#gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer .smcXrightcolumn li a:link, #gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer .rightcolumn li a:visited{  text-decoration: none;
+			}
+			
+#gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer .smcXrightcolumn li a:hover{    
+			color: #fe5815;    
+			text-decoration: underline;
+			}
+			
+#gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer #smcXadBanner{    
+			width: 420px;    
+			float: left;    
+			margin-left: 10px;    
+			margin-bottom: 10px;    
+			}
+			
+#gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer #smcXadBanner img{    
+			border: none;
+			}
+			
+#gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer#smcXassist{    
+			width: 100%;    
+			margin: 10px;    
+			border-top-width: 1px;    
+			border-top-style: solid;    
+			border-top-color: #ABC4D6;    
+			background-image: url(../../../library/images/support/cn/psc_container_bkgnd.png);    
+			background-repeat: repeat-x;
+			}
+			
+#gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer #smcXassist p{    
+			font-size: 11px;    
+			margin: 0px;    
+			line-height: 16px;  
+			padding-top: 15px;    
+			padding-right: 10px;   
+			padding-bottom: 15px;   
+			padding-left: 10px;
+			}
+			
+#gsfx_brnd_PageWrapper #gsfx_brnd_PageContainer #smcXassist img{    
+			float: left;    
+			margin-right: 5px;
+			}
+			
+#SubTitle{display:none;}
+
+ #gsfx_brnd_CenterContent, #gsfx_brnd_PageWrapper
+    {
+        background: url('') repeat-x bottom;
+    } 
+	
+#gsfx_cat_sel_ie6
+    {
+    	visibility:hidden;
+    }

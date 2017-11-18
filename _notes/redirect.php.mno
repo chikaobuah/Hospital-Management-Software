@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recroletask" value="name:Role;datatype:int,name:Task;datatype:int,name:RTlid;datatype:int" />
+</info>

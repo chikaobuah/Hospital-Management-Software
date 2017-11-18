@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_company" value="name:LId;datatype:real,name:Client;datatype:string,name:Short;datatype:string,name:Service_FK;datatype:int" />
+	<infoitem key="UD_recpro" value="name:Id;datatype:int,name:Program;datatype:string,name:Alias;datatype:string,name:Service_FK;datatype:int" />
+	<infoitem key="UD_schload" value="name:LId;datatype:int" />
+	<infoitem key="UD_idpay" value="name:Id;datatype:int" />
+</info>

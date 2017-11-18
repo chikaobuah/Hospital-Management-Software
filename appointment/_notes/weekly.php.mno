@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_week" value="name:Id;datatype:int,name:Every;datatype:string" />
+	<infoitem key="UD_days" value="name:Id;datatype:int,name:Week_Days;datatype:string,name:Short;datatype:string" />
+	<infoitem key="UD_servicedays" value="name:Id;datatype:int,name:sid;datatype:int,name:Status;datatype:int,name:Starts;datatype:string,name:Service_FK;datatype:int,name:Week_day_FK;datatype:int,name:Week_every_FK;datatype:int,name:License;datatype:int,name:Every;datatype:string,name:Week_Days;datatype:string,name:Short;datatype:string" />
+	<infoitem key="UD_Start" value="name:Id;datatype:int,name:Starts;datatype:string" />
+</info>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Access_Level;datatype:int" />
+	<infoitem key="UD_proload" value="name:LId;datatype:real" />
+	<infoitem key="UD_schload" value="name:LId;datatype:int" />
+	<infoitem key="UD_payload" value="name:Id;datatype:int" />
+	<infoitem key="UD_idpay" value="name:Id;datatype:int,name:Scheme_FK;datatype:int,name:Amount;datatype:real,name:Paying;datatype:real,name:Frequency;datatype:int,name:Expiry_date;datatype:datetime,name:Created;datatype:datetime,name:Creator;datatype:datetime,name:Enrolee_count;datatype:int,name:Licensee;datatype:int,name:Start_date;datatype:datetime,name:formatted_date;datatype:string,name:formatted_date2;datatype:string" />
+</info>

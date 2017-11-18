@@ -1,0 +1,139 @@
+/**********services**********/
+table.collapse {border-collapse: collapse;}
+
+
+#appointment_services{
+border-left : solid 2px #224466; 
+color:#224466;
+width : 100%; 
+height : 100%; 
+overflow : auto; 
+overflow-x: hidden;
+-ms-overflow-x: hidden;
+ position: absolute;
+   		top: 0%;
+        left: 25%;
+        float: left;
+        width: 20%;
+		height:450px;
+		text-align:left;
+
+}
+
+
+#appointment_services a{
+display: block;
+width: 100%;
+text-decoration: none;
+font-weight: bold;
+/*border-bottom: 0px solid gray;*/
+color:#224466;
+}
+
+#appointment_services a.simple{
+display: block;
+width: 100%;
+height:25px;
+text-decoration: none;
+font-weight: bold;
+background-image:url(../client/nav-bg.png); 
+background-repeat:repeat-x;
+color:#224466;
+}
+
+#appointment_services a.simple:hover{
+background-color:#84B8D0;
+}
+
+#appointment_services a:hover{
+background-color:#84B8D0;
+}
+
+#appointment_services a.home{
+	background:url(../images/icons/list_normal.png ) no-repeat 0 0; width:15px; height:15px; 
+	border-bottom: 0px solid gray;
+	}
+#appointment_services a.home:hover{
+	background:url(../images/icons/list_selected.png) no-repeat 0 0; width:15px; height:15px;
+	border-bottom: 0px solid gray;
+	}
+#appointment_services a.no{
+	width: 15%;
+	float:right;
+	border-bottom: 0px solid gray;
+	}
+
+/**********appointment_weekly**********/
+table.collapse {border-collapse: collapse;}
+
+
+#appointment_weekly{
+border-right : solid 2px #224466; 
+border-left : solid 2px #224466; 
+color:#224466;
+width : 100%; 
+height : 100%; 
+overflow : auto; 
+overflow-x: hidden;
+-ms-overflow-x: hidden;
+ position: absolute;
+   		top: 0%;
+        left: 45%;
+        float: left;
+        width: 30%;
+		height:450px;
+		text-align:left;
+}
+
+
+#appointment_weekly a{
+display: block;
+width: 100%;
+text-decoration: none;
+font-weight: bold;
+/*border-bottom: 0px solid gray;*/
+color:#224466;
+}
+
+#appointment_weekly a.simple{
+display: block;
+width: 100%;
+height:25px;
+text-decoration: none;
+font-weight: bold;
+background-image:url(../client/nav-bg.png); 
+background-repeat:repeat-x;
+color:#224466;
+}
+
+#appointment_weekly a.simple:hover{
+background-color:#84B8D0;
+}
+
+#appointment_weekly a:hover{
+background-color:#84B8D0;
+}
+
+#appointment_weekly a.home{
+	background:url(../images/icons/list_normal.png ) no-repeat 0 0; width:15px; height:15px; 
+	border-bottom: 0px solid gray;
+	}
+#appointment_weekly a.home:hover{
+	background:url(../images/icons/list_selected.png) no-repeat 0 0; width:15px; height:15px;
+	border-bottom: 0px solid gray;
+	}
+#appointment_weekly a.no{
+	width: 15%;
+	float:right;
+	border-bottom: 0px solid gray;
+	}
+	
+	
+ .error {
+  font-family: Tahoma;
+font-size: 8pt;
+  color: red;
+  margin-left: 0px;
+  display:none;
+  float:left;
+  }

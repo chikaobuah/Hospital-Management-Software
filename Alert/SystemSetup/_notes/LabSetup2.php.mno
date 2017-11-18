@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_recStock" value="name:Generic;datatype:string,name:Id;datatype:int" />
+	<infoitem key="UD_recDrug" value="name:Id;datatype:int,name:Drug;datatype:string" />
+	<infoitem key="UD_recReagent" value="name:Id;datatype:int,name:Reagent;datatype:string" />
+	<infoitem key="UD_recAlertTable" value="name:Generic;datatype:string,name:Minimum_Day;datatype:int,name:Maximum_Day;datatype:int,name:Minimum_Quantity;datatype:int,name:maximum_quantity;datatype:int,name:Alert_Message;datatype:string,name:Contact_Person;datatype:string,name:Contact_Email;datatype:string,name:Contact_Phone;datatype:string" />
+</info>

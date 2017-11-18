@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recenrolee" value="name:Licensee;datatype:int,name:LId;datatype:int,name:Surname;datatype:string,name:First_Name;datatype:string,name:Other_Name;datatype:string" />
+	<infoitem key="UD_Recrelationship" value="name:Id;datatype:int,name:Relationship;datatype:string" />
+</info>
