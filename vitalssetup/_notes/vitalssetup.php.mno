@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_vitals" value="name:Vital;datatype:string,name:Id;datatype:int,name:Measure_FK;datatype:int,name:License;datatype:int,name:Measure;datatype:string" />
+	<infoitem key="UD_measure" value="name:Id;datatype:int,name:Measure;datatype:string" />
+</info>

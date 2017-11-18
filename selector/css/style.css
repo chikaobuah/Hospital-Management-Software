@@ -1,0 +1,26 @@
+.list {
+	list-style-type: none;
+	width: 200px;
+}
+
+	.list li {
+		background-color: #ccc;
+		display: block;
+		padding: 5px 0 5px 10px;
+		border-bottom: solid 1px #0c0c0c;
+		cursor: pointer;
+	}
+	
+		.list li:hover {
+			background-color: #84b8d0;
+		}
+		
+	.currentLink {
+		color: #fff;
+		background-color: #84b8d0 !important;
+	}
+	
+a {
+	text-decoration: none;
+	color: #000;
+}

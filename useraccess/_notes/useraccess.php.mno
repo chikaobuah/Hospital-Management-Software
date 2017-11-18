@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recuser" value="name:Licensee_Hqs;datatype:int,name:LId;datatype:int,name:Created;datatype:datetime,name:Creator;datatype:int,name:User_Id;datatype:string,name:User_Password;datatype:string,name:User_Name;datatype:string,name:Status;datatype:int" />
+	<infoitem key="MMGuideColor" value="#00FF00" />
+	<infoitem key="MMGuideVisible" value="false" />
+	<infoitem key="MMGuideLocked" value="false" />
+	<infoitem key="MMSnapToGuide" value="true" />
+	<infoitem key="MMGuidesSnapToElements" value="true" />
+	<infoitem key="MMDistanceColor" value="#0000FF" />
+	<infoitem key="MMGuideCount" value="0" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rec" value="name:Enrolee;datatype:int,name:Created;datatype:datetime,name:Creator;datatype:int,name:Visit;datatype:datetime,name:Vital_FK;datatype:int,name:Reading;datatype:int" />
+	<infoitem key="UD_Rec_visit_vital" value="name:Enrolee;datatype:int,name:Created;datatype:datetime,name:Creator;datatype:int,name:Visit;datatype:datetime,name:Vital_FK;datatype:int,name:Reading;datatype:int" />
+</info>

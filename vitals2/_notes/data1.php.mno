@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recenrolleescheme" value="name:Enrolee;datatype:int,name:Principal;datatype:int,name:Scheme;datatype:int" />
+</info>

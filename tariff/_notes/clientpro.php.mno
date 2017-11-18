@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_clientpro" value="name:Id;datatype:int,name:Tariff;datatype:real,name:Client_FK;datatype:int,name:Effective_FK;datatype:int,name:License;datatype:int,name:Status;datatype:int,name:Procedure_FK;datatype:int,name:Procedure;datatype:string,name:Blocks;datatype:int" />
+	<infoitem key="UD_procedure" value="name:Id;datatype:real,name:Short;datatype:string,name:Procedure;datatype:string,name:Blocks;datatype:real,name:Specimen;datatype:string,name:Service_direction_FK;datatype:real" />
+	<infoitem key="UD_Recordset1" value="name:Id;datatype:int,name:Client_FK;datatype:int,name:Effective_FK;datatype:int,name:License;datatype:int,name:Status;datatype:int,name:Procedure_FK;datatype:int,name:Tariff;datatype:real" />
+	<infoitem key="UD_check" value="name:Id;datatype:int" />
+</info>
