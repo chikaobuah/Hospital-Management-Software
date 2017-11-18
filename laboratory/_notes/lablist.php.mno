@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_lablist" value="name:Short;datatype:string,name:Enrolee;datatype:int,name:Created;datatype:datetime,name:Creator;datatype:int,name:Visit;datatype:datetime,name:Provider;datatype:int,name:Appointment;datatype:datetime,name:Specific_Request;datatype:string,name:Specimen;datatype:int,name:Status;datatype:int,name:Procedure;datatype:string,name:dshort;datatype:string,name:Task_FK;datatype:int,name:Task;datatype:string,name:Sequence;datatype:int,name:Procedure;datatype:string,name:Id;datatype:real,name:Service;datatype:string,name:Id;datatype:int,name:Status;datatype:int" />
+	<infoitem key="UD_lablisttwo" value="name:Short;datatype:string,name:Enrolee;datatype:int,name:Created;datatype:datetime,name:Creator;datatype:int,name:Visit;datatype:datetime,name:Provider;datatype:int,name:Appointment;datatype:datetime,name:Specific_Request;datatype:string,name:Specimen;datatype:int,name:Status;datatype:int,name:dshort;datatype:string,name:Task_FK;datatype:int,name:Task;datatype:string,name:Sequence;datatype:int,name:Procedure;datatype:string,name:Id;datatype:real,name:Service;datatype:string,name:Id;datatype:int,name:Status;datatype:int" />
+	<infoitem key="UD_details" value="name:Id;datatype:int,name:Results;datatype:string,name:Groups;datatype:int" />
+	<infoitem key="UD_work" value="name:Id;datatype:int,name:Results;datatype:string,name:Groups;datatype:int" />
+	<infoitem key="UD_work2" value="name:Id;datatype:int,name:Results;datatype:string,name:Groups;datatype:int" />
+</info>

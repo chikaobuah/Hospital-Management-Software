@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_anypro" value="name:Task_FK;datatype:int,name:Task;datatype:string,name:Sequence;datatype:int,name:Procedure;datatype:string,name:Id;datatype:int,name:Service;datatype:string,name:Id;datatype:int,name:Status;datatype:int,name:Sequence;datatype:int" />
+	<infoitem key="UD_anypre" value="name:Task_FK;datatype:int,name:Task;datatype:string,name:Sequence;datatype:int,name:Drug;datatype:string,name:Id;datatype:int,name:Service;datatype:string,name:Id;datatype:int,name:Status;datatype:int,name:Sequence;datatype:int" />
+	<infoitem key="UD_new" value="name:Enrolee;datatype:int,name:Visit_date;datatype:datetime,name:Visit;datatype:datetime,name:Queued;datatype:datetime,name:Task;datatype:int,name:Next_task;datatype:int,name:Exited;datatype:datetime" />
+</info>

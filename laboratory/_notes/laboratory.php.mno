@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_recvist1" value="name:Enrolee;datatype:int,name:Created;datatype:datetime,name:Creator;datatype:int,name:Service;datatype:int,name:LMP;datatype:datetime,name:Ticket_No;datatype:int,name:Appoint(11)ed;datatype:datetime,name:Loading;datatype:real,name:upsize_ts;datatype:timestamp,name:Status;datatype:int,name:Principal;datatype:int,name:Scheme;datatype:int,name:License;datatype:int" />
+	<infoitem key="UD_recenrolee1" value="name:Enrolee;datatype:int,name:Created;datatype:datetime,name:Creator;datatype:int,name:Visit;datatype:datetime,name:Note;datatype:blob,name:upsize_ts;datatype:timestamp" />
+	<infoitem key="UD_recnotes" value="name:Note;datatype:blob,name:Created;datatype:datetime,name:User_Name;datatype:string" />
+	<infoitem key="UD_recuser" value="name:LId;datatype:int" />
+	<infoitem key="UD_recre" value="name:Surname;datatype:string,name:First_Name;datatype:string,name:Other_Name;datatype:string" />
+	<infoitem key="UD_recdes" value="name:Relationship;datatype:string,name:Disease;datatype:int,name:Disease;datatype:string" />
+	<infoitem key="UD_recdrug" value="name:Drug;datatype:string" />
+	<infoitem key="UD_recvitals" value="name:Vital;datatype:string,name:Measure;datatype:string,name:Reading;datatype:int" />
+	<infoitem key="UD_recsheme" value="name:Program;datatype:string,name:Client;datatype:string,name:Scheme;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:Access_Level;datatype:int" />
+	<infoitem key="UD_Recordset2" value="name:Id;datatype:int,name:Effective;datatype:datetime,name:Created;datatype:datetime,name:Creator;datatype:int,name:Cover;datatype:int,name:Scheme;datatype:int,name:Capitation;datatype:real" />
+	<infoitem key="UD_Recordset3" value="name:Id;datatype:int,name:Effective;datatype:datetime,name:Created;datatype:datetime,name:Creator;datatype:int,name:Cover;datatype:int,name:Scheme;datatype:int,name:Capitation;datatype:real" />
+	<infoitem key="UD_transaction" value="name:count;datatype:int" />
+	<infoitem key="UD_visit_pre" value="name:count;datatype:int" />
+	<infoitem key="UD_visit_pro" value="name:count;datatype:int" />
+	<infoitem key="UD_status" value="name:sta;datatype:string,name:Enrolee;datatype:int,name:Created;datatype:datetime,name:Creator;datatype:int,name:Service;datatype:int,name:LMP;datatype:datetime,name:Ticket_No;datatype:int,name:Appointed;datatype:datetime,name:Loading;datatype:real,name:upsize_ts;datatype:timestamp,name:Status;datatype:int,name:Principal;datatype:int,name:License;datatype:int,name:Scheme;datatype:int" />
+	<infoitem key="UD_amount2" value="name:Amount;datatype:real,name:Notes;datatype:string,name:Licensee;datatype:int,name:Effective_FK;datatype:int" />
+	<infoitem key="UD_amount" value="name:Amount;datatype:real,name:Notes;datatype:string,name:Licensee;datatype:int,name:Effective_FK;datatype:int" />
+	<infoitem key="UD_recage" value="name:CURDATE();datatype:date,name:age;datatype:int" />
+	<infoitem key="UD_scheme" value="name:Program;datatype:string,name:Program_FK;datatype:int,name:Client;datatype:string,name:Scheme;datatype:string" />
+	<infoitem key="UD_service" value="name:Id;datatype:int,name:Detail;datatype:string,name:Short;datatype:string,name:Group;datatype:string" />
+</info>

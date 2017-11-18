@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_enrolaly" value="name:id;datatype:int,name:Drug;datatype:string,name:drug_FK;datatype:int,name:Enrolee;datatype:int,name:Status;datatype:int,name:First_Name;datatype:string,name:Other_Name;datatype:string,name:Surname;datatype:string" />
+</info>

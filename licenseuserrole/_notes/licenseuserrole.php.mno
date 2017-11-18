@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recuser" value="name:Licensee_Hqs;datatype:int,name:LId;datatype:int,name:Created;datatype:datetime,name:Creator;datatype:int,name:User_Id;datatype:string,name:User_Password;datatype:string,name:User_Name;datatype:string,name:Status;datatype:int" />
+</info>
