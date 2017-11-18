@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_recvist1" value="name:Enrolee;datatype:int,name:Created;datatype:datetime,name:Creator;datatype:int,name:Service;datatype:int,name:LMP;datatype:datetime,name:Ticket_No;datatype:int,name:Appoint(11)ed;datatype:datetime,name:Loading;datatype:real,name:upsize_ts;datatype:timestamp,name:Status;datatype:int,name:id;datatype:int,name:Principal;datatype:int,name:Scheme;datatype:int" />
+	<infoitem key="UD_recenrolee1" value="name:Enrolee;datatype:int,name:Created;datatype:datetime,name:Creator;datatype:int,name:Visit;datatype:datetime,name:Note;datatype:blob,name:upsize_ts;datatype:timestamp" />
+	<infoitem key="UD_recnotes" value="name:Note;datatype:blob,name:Created;datatype:datetime,name:User_Name;datatype:string" />
+	<infoitem key="UD_recuser" value="name:LId;datatype:int" />
+	<infoitem key="UD_recre" value="name:Surname;datatype:string,name:First_Name;datatype:string,name:Other_Name;datatype:string" />
+	<infoitem key="UD_recdes" value="name:Relationship;datatype:string,name:Disease;datatype:int,name:Disease;datatype:string" />
+	<infoitem key="UD_recdrug" value="name:Drug;datatype:string" />
+	<infoitem key="UD_recvitals" value="name:Vital;datatype:string,name:Measure;datatype:string,name:Reading;datatype:int" />
+	<infoitem key="UD_recsheme" value="name:Retainer_FK;datatype:int,name:HMO_FK;datatype:int,name:Program;datatype:string,name:Scheme;datatype:string,name:LId;datatype:int" />
+	<infoitem key="UD_recprogram" value="name:Id;datatype:int,name:Program;datatype:string,name:Alias;datatype:string" />
+	<infoitem key="UD_reclisschemes" value="name:Status;datatype:string,name:Client;datatype:string,name:Cli;datatype:int,name:Program;datatype:string,name:Licensee;datatype:int,name:sta;datatype:int,name:LId;datatype:int,name:Created;datatype:datetime,name:Creator;datatype:int,name:Scheme;datatype:string,name:Commenced;datatype:datetime,name:Capitation;datatype:real,name:Stay_duration;datatype:int,name:Status_Note;datatype:string" />
+	<infoitem key="UD_recdrugcover" value="name:LId;datatype:int,name:Cover;datatype:string,name:Licensee_Hqs;datatype:int,name:Loading;datatype:real" />
+	<infoitem key="UD_Recordset1" value="name:Id;datatype:int,name:Program;datatype:string,name:Alias;datatype:string" />
+	<infoitem key="UD_Recordset11" value="name:Id;datatype:int,name:Program;datatype:string,name:Alias;datatype:string" />
+	<infoitem key="UD_rec1" value="name:Business_FK;datatype:int,name:Client;datatype:string,name:LId;datatype:int,name:Licensee_Hqs;datatype:int" />
+</info>

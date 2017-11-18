@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_company" value="name:Client;datatype:string,name:LId;datatype:int,name:Short;datatype:string" />
+	<infoitem key="UD_recpro" value="name:Id;datatype:int,name:Program;datatype:string,name:Alias;datatype:string" />
+</info>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_procedures" value="name:Enrolee;datatype:int,name:Next_of_Kin;datatype:string,name:NoK_Relationship;datatype:int,name:NoK_Home_Address;datatype:string,name:NoK_Home_Country;datatype:int,name:NoK_Home_State;datatype:int,name:NoK_Home_LGA;datatype:int,name:NoK_Home_City;datatype:string,name:NoK_Home_PostCode;datatype:string,name:NoK_Home_Phone;datatype:string,name:NoK_Job_Place;datatype:int,name:NoK_Business_Phone;datatype:string,name:NoK_Mobile_Phone;datatype:string,name:NoK_Email;datatype:string,name:NoK_Job_Title;datatype:string,name:NoK_Enrolee_Id;datatype:int,name:Account;datatype:real" />
+	<infoitem key="UD_loading" value="name:Id;datatype:int,name:Principal_FK;datatype:int,name:Loading;datatype:real,name:Effective_FK;datatype:int,name:License;datatype:int" />
+	<infoitem key="UD_principal" value="name:Enrolee;datatype:int,name:Principal;datatype:int,name:Relationship;datatype:int,name:Status;datatype:int,name:Status_Note;datatype:blob,name:upsize_ts;datatype:timestamp,name:Licensee;datatype:int,name:Surname;datatype:string,name:First_Name;datatype:string,name:Other_Name;datatype:string" />
+	<infoitem key="UD_eff" value="name:Id;datatype:int,name:Effective;datatype:datetime,name:License;datatype:int,name:Service_FK;datatype:int" />
+</info>

@@ -1,0 +1,262 @@
+/**********loading_list**********/
+table.collapse {border-collapse: collapse;}
+
+
+#loading_list{
+border-left : solid 2px #224466; 
+color:#224466;
+width : 100%; 
+height : 100%; 
+overflow : auto; 
+overflow-x: hidden;
+-ms-overflow-x: hidden;
+ position: absolute;
+   		top: 0%;
+        left: 0%;
+        float: left;
+        width: 15%;
+		height:450px;
+		text-align:left;
+}
+
+
+#loading_list a{
+display: block;
+width: 100%;
+text-decoration: none;
+font-weight: bold;
+/*border-bottom: 0px solid gray;*/
+color:#224466;
+}
+
+#loading_list a.simple{
+display: block;
+width: 100%;
+height:25px;
+text-decoration: none;
+font-weight: bold;
+background-image:url(../client/nav-bg.png); 
+background-repeat:repeat-x;
+color:#224466;
+}
+
+#loading_list a.simple:hover{
+background-color:#84B8D0;
+}
+
+#loading_list a:hover{
+background-color:#84B8D0;
+}
+
+#loading_list a.home{
+	background:url(../images/icons/list_normal.png ) no-repeat 0 0; width:15px; height:15px; 
+	border-bottom: 0px solid gray;
+	}
+#loading_list a.home:hover{
+	background:url(../images/icons/list_selected.png) no-repeat 0 0; width:15px; height:15px;
+	border-bottom: 0px solid gray;
+	}
+#loading_list a.no{
+	width: 15%;
+	float:right;
+	border-bottom: 0px solid gray;
+	}
+
+/**********loading_services**********/
+table.collapse {border-collapse: collapse;}
+
+
+#loading_services{
+border-left : solid 2px #224466; 
+color:#224466;
+width : 100%; 
+height : 100%; 
+overflow : auto; 
+overflow-x: hidden;
+-ms-overflow-x: hidden;
+ position: absolute;
+   		top: 0%;
+        left: 15%;
+        float: left;
+        width: 15%;
+		height:450px;
+		text-align:left;
+}
+
+
+#loading_services a{
+display: block;
+width: 100%;
+text-decoration: none;
+font-weight: bold;
+/*border-bottom: 0px solid gray;*/
+color:#224466;
+}
+
+#loading_services a.simple{
+display: block;
+width: 100%;
+height:25px;
+text-decoration: none;
+font-weight: bold;
+background-image:url(../client/nav-bg.png); 
+background-repeat:repeat-x;
+color:#224466;
+}
+
+#loading_services a.simple:hover{
+background-color:#84B8D0;
+}
+
+#loading_services a:hover{
+background-color:#84B8D0;
+}
+
+#loading_services a.home{
+	background:url(../images/icons/list_normal.png ) no-repeat 0 0; width:15px; height:15px; 
+	border-bottom: 0px solid gray;
+	}
+#loading_services a.home:hover{
+	background:url(../images/icons/list_selected.png) no-repeat 0 0; width:15px; height:15px;
+	border-bottom: 0px solid gray;
+	}
+#loading_services a.no{
+	width: 15%;
+	float:right;
+	border-bottom: 0px solid gray;
+	}
+	
+	/**********loading_effective**********/
+table.collapse {border-collapse: collapse;}
+
+
+#loading_effective{
+border-left : solid 2px #224466; 
+color:#224466;
+width : 100%; 
+height : 100%; 
+overflow : auto; 
+overflow-x: hidden;
+-ms-overflow-x: hidden;
+ position: absolute;
+   		top: 0%;
+        left: 30%;
+        float: left;
+        width: 15%;
+		height:450px;
+		text-align:left;
+}
+
+
+#loading_effective a{
+text-decoration: none;
+font-weight: bold;
+/*border-bottom: 0px solid gray;*/
+color:#224466;
+}
+
+#loading_effective a.simple{
+display: block;
+width: 100%;
+height:25px;
+text-decoration: none;
+font-weight: bold;
+background-image:url(../client/nav-bg.png); 
+background-repeat:repeat-x;
+color:#224466;
+}
+
+#loading_effective a.simple:hover{
+background-color:#84B8D0;
+}
+
+#loading_effective a:hover{
+background-color:#84B8D0;
+}
+
+#loading_effective a.home{
+	background:url(../images/icons/list_normal.png ) no-repeat 0 0; width:15px; height:15px; 
+	border-bottom: 0px solid gray;
+	}
+#loading_effective a.home:hover{
+	background:url(../images/icons/list_selected.png) no-repeat 0 0; width:15px; height:15px;
+	border-bottom: 0px solid gray;
+	}
+#effective a.no{
+	width: 15%;
+	float:right;
+	border-bottom: 0px solid gray;
+	}
+
+	/**********loading_procedures**********/
+table.collapse {border-collapse: collapse;}
+
+
+#loading_procedures{
+border-left : solid 2px #224466; 
+color:#224466;
+width : 100%; 
+height : 100%; 
+overflow : auto; 
+overflow-x: hidden;
+-ms-overflow-x: hidden;
+ position: absolute;
+   		top: 0%;
+        left: 45%;
+        float: left;
+        width: 55%;
+		height:450px;
+		text-align:left;
+}
+
+
+#loading_procedures a{
+display: block;
+width: 100%;
+text-decoration: none;
+font-weight: bold;
+/*border-bottom: 0px solid gray;*/
+color:#224466;
+}
+
+#loading_procedures a.simple{
+display: block;
+width: 100%;
+height:25px;
+text-decoration: none;
+font-weight: bold;
+background-image:url(../client/nav-bg.png); 
+background-repeat:repeat-x;
+color:#224466;
+}
+
+#loading_procedures a.simple:hover{
+background-color:#84B8D0;
+}
+
+#loading_procedures a:hover{
+background-color:#84B8D0;
+}
+
+#loading_procedures a.home{
+	background:url(../images/icons/list_normal.png ) no-repeat 0 0; width:15px; height:15px; 
+	border-bottom: 0px solid gray;
+	}
+#loading_procedures a.home:hover{
+	background:url(../images/icons/list_selected.png) no-repeat 0 0; width:15px; height:15px;
+	border-bottom: 0px solid gray;
+	}
+#loading_procedures a.no{
+	width: 15%;
+	float:right;
+	border-bottom: 0px solid gray;
+	}
+
+  .error {
+  font-family: Tahoma;
+font-size: 8pt;
+  color: red;
+  margin-left: 0px;
+  display:none;
+  }
+  

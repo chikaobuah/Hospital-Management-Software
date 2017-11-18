@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_program" value="name:Id;datatype:int,name:Service;datatype:string,name:Blocks;datatype:int,name:GL_Account;datatype:int,name:Direction;datatype:int,name:Loading;datatype:real" />
+	<infoitem key="UD_loading" value="name:Id;datatype:int,name:Program_FK;datatype:int,name:Loading;datatype:real,name:Effective_FK;datatype:int,name:License;datatype:int" />
+	<infoitem key="UD_service" value="name:Id;datatype:int,name:Service;datatype:string,name:Blocks;datatype:int,name:GL_Account;datatype:int,name:Direction;datatype:int,name:Loading;datatype:real" />
+	<infoitem key="UD_eff" value="name:Id;datatype:int,name:Effective;datatype:datetime,name:License;datatype:int,name:Service_FK;datatype:int" />
+</info>

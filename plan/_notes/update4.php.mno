@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_enroleescheme" value="name:Enrolee;datatype:int,name:Principal;datatype:int,name:Scheme;datatype:int,name:COY_ID_No;datatype:string,name:HMO_Reg_No;datatype:string,name:HMO_ID_No;datatype:string,name:HMO_Registered;datatype:datetime,name:NHIS_Reg_No;datatype:string,name:NHIS_ID_No;datatype:string,name:NHIS_Registered;datatype:datetime,name:Status;datatype:int,name:Status_Note;datatype:blob,name:upsize_ts;datatype:timestamp,name:Sta;datatype:int,name:Id_FK;datatype:int" />
+	<infoitem key="UD_status" value="name:Id;datatype:int,name:Enrolee_FK;datatype:int,name:Scheme_FK;datatype:int,name:License;datatype:int,name:Status;datatype:int,name:Effective_FK;datatype:int" />
+</info>

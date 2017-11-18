@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Id;datatype:int,name:1st_Month;datatype:string,name:Short;datatype:string" />
+	<infoitem key="UD_Reccountry" value="name:Country;datatype:string,name:Id;datatype:int" />
+	<infoitem key="UD_Recstate" value="name:Id;datatype:int,name:State;datatype:string" />
+	<infoitem key="UD_Reclga" value="name:Id;datatype:int,name:LGA;datatype:string" />
+	<infoitem key="UD_Reclicensehq" value="name:Licensee;datatype:int" />
+</info>

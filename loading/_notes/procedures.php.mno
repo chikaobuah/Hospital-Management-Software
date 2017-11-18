@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_procedures" value="name:Id;datatype:real,name:Short;datatype:string,name:Procedure;datatype:string,name:Blocks;datatype:real,name:Specimen;datatype:string,name:Service_direction_FK;datatype:real" />
+	<infoitem key="UD_loading" value="name:Id;datatype:int,name:Procedure_FK;datatype:int,name:Loading;datatype:real,name:Effective_FK;datatype:int,name:License;datatype:int" />
+	<infoitem key="UD_eff" value="name:Id;datatype:int,name:Effective;datatype:datetime,name:License;datatype:int,name:Service_FK;datatype:int" />
+</info>

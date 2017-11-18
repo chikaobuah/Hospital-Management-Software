@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_license" value="name:Licensee_Hqs;datatype:int,name:Id;datatype:int,name:Created;datatype:datetime,name:Creator;datatype:int,name:Licensee;datatype:string,name:Short;datatype:string,name:Address;datatype:string,name:Country_FK;datatype:int,name:State_FK;datatype:int,name:LGA_FK;datatype:int,name:City;datatype:string,name:PostCode;datatype:string,name:Licensed;datatype:datetime,name:License_Cost;datatype:real,name:License_Key;datatype:string,name:NHIS_Reg_No;datatype:string,name:NHIS_Registered;datatype:datetime,name:Contact;datatype:string,name:Contact_Business_Phone;datatype:string,name:Contact_Mobile_Phone;datatype:string,name:Contact_Email;datatype:string,name:Contact_Job_Title;datatype:string,name:upsize_ts;datatype:timestamp" />
+	<infoitem key="UD_loadding" value="name:Id;datatype:int,name:License_HQ;datatype:int,name:License_FK;datatype:int,name:Loading;datatype:real" />
+	<infoitem key="UD_eff" value="name:Id;datatype:int,name:Effective;datatype:datetime,name:License;datatype:int,name:Service_FK;datatype:int" />
+</info>

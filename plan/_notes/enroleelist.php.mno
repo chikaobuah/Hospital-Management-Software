@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Enrolee;datatype:int,name:Surname;datatype:string,name:First_Name;datatype:string,name:Other_Name;datatype:string" />
+	<infoitem key="UD_Recordset22" value="name:Principal;datatype:int,name:Scheme;datatype:int,name:Status;datatype:int,name:LId;datatype:int,name:Surname;datatype:string,name:First_Name;datatype:string,name:Other_Name;datatype:string" />
+	<infoitem key="UD_Recordset2223" value="name:Capitation;datatype:int" />
+	<infoitem key="UD_count" value="name:count;datatype:int" />
+	<infoitem key="UD_cap" value="name:Id;datatype:int,name:Scheme_FK;datatype:int,name:Amount;datatype:real,name:Paying;datatype:real,name:Frequency;datatype:int,name:Expiry_date;datatype:datetime,name:Created;datatype:datetime,name:Creator;datatype:datetime,name:Enrolee_count;datatype:int,name:Licensee;datatype:int,name:Start_date;datatype:datetime" />
+	<infoitem key="UD_loading" value="name:Id;datatype:int,name:Enrolee_FK;datatype:int,name:Scheme_FK;datatype:int,name:License;datatype:int,name:Status;datatype:int,name:Effective_FK;datatype:int" />
+</info>

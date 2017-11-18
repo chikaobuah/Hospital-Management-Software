@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_recuser" value="name:LId;datatype:int" />
+	<infoitem key="UD_programfk" value="name:Id;datatype:int" />
+</info>

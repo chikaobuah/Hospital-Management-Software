@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_plan" value="name:LId;datatype:int,name:Scheme;datatype:string,name:Client;datatype:string,name:Short;datatype:string" />
+	<infoitem key="UD_loading" value="name:Id;datatype:int,name:Scheme_FK;datatype:int,name:Loading;datatype:real,name:Effective_FK;datatype:int,name:License;datatype:int" />
+	<infoitem key="UD_eff" value="name:Id;datatype:int,name:Effective;datatype:datetime,name:License;datatype:int,name:Service_FK;datatype:int" />
+</info>

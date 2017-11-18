@@ -1,0 +1,269 @@
+
+
+/**********plan_program**********/
+table.collapse {border-collapse: collapse;}
+
+
+#plan_program{
+border-left : solid 2px #224466; 
+color:#224466;
+width : 100%; 
+height : 100%; 
+overflow : auto; 
+overflow-x: hidden;
+-ms-overflow-x: hidden;
+ position: absolute;
+   		top: 0%;
+        left: 0%;
+        float: left;
+        width: 10%;
+		height:450px;
+		text-align:left;
+
+
+}
+
+
+#plan_program a{
+display: block;
+width: 100%;
+text-decoration: none;
+font-weight: bold;
+/*border-bottom: 0px solid gray;*/
+color:#224466;
+}
+
+#plan_program a.simple{
+display: block;
+width: 100%;
+height:25px;
+text-decoration: none;
+font-weight: bold;
+background-image:url(../client/nav-bg.png); 
+background-repeat:repeat-x;
+color:#224466;
+}
+
+#plan_program a.simple:hover{
+background-color:#84B8D0;
+}
+
+#plan_program a:hover{
+background-color:#84B8D0;
+}
+
+#plan_program a.home{
+	background:url(../images/icons/list_normal.png ) no-repeat 0 0; width:15px; height:15px; 
+	border-bottom: 0px solid gray;
+	}
+#plan_program a.home:hover{
+	background:url(../images/icons/list_selected.png) no-repeat 0 0; width:15px; height:15px;
+	border-bottom: 0px solid gray;
+	}
+#plan_program a.no{
+	width: 15%;
+	float:right;
+	border-bottom: 0px solid gray;
+	}
+
+/**********plan_companylist**********/
+table.collapse {border-collapse: collapse;}
+
+
+#plan_companylist{
+border-left : solid 2px #224466; 
+color:#224466;
+width : 100%; 
+height : 100%; 
+overflow : auto; 
+overflow-x: hidden;
+-ms-overflow-x: hidden;
+ position: absolute;
+   		top: 0%;
+        left: 10%;
+        float: left;
+        width: 20%;
+		height:450px;
+		text-align:left;
+}
+
+
+#plan_companylist a{
+display: block;
+width: 100%;
+text-decoration: none;
+font-weight: bold;
+/*border-bottom: 0px solid gray;*/
+color:#224466;
+}
+
+#plan_companylist a.simple{
+display: block;
+width: 100%;
+height:25px;
+text-decoration: none;
+font-weight: bold;
+background-image:url(../client/nav-bg.png); 
+background-repeat:repeat-x;
+color:#224466;
+}
+
+#plan_companylist a.simple:hover{
+background-color:#84B8D0;
+}
+
+#plan_companylist a:hover{
+background-color:#84B8D0;
+}
+
+#plan_companylist a.home{
+	background:url(../images/icons/list_normal.png ) no-repeat 0 0; width:15px; height:15px; 
+	border-bottom: 0px solid gray;
+	}
+#plan_companylist a.home:hover{
+	background:url(../images/icons/list_selected.png) no-repeat 0 0; width:15px; height:15px;
+	border-bottom: 0px solid gray;
+	}
+#plan_companylist a.no{
+	width: 15%;
+	float:right;
+	border-bottom: 0px solid gray;
+	}
+	
+	/**********plan_schemes**********/
+table.collapse {border-collapse: collapse;}
+
+
+#plan_schemes{
+border-left : solid 2px #224466; 
+color:#224466;
+width : 100%; 
+height : 100%; 
+overflow : auto; 
+overflow-x: hidden;
+-ms-overflow-x: hidden;
+ position: absolute;
+   		top: 0%;
+        left: 30%;
+        float: left;
+        width: 35%;
+		height:450px;
+		text-align:left;
+}
+
+
+#plan_schemes a{
+display: block;
+width: 100%;
+text-decoration: none;
+font-weight: bold;
+/*border-bottom: 0px solid gray;*/
+color:#224466;
+}
+
+#plan_schemes a.simple{
+display: block;
+width: 100%;
+height:25px;
+text-decoration: none;
+font-weight: bold;
+background-image:url(../client/nav-bg.png); 
+background-repeat:repeat-x;
+color:#224466;
+}
+
+#plan_schemes a.simple:hover{
+background-color:#84B8D0;
+}
+
+#plan_schemes a:hover{
+background-color:#84B8D0;
+}
+
+#plan_schemes a.home{
+	background:url(../images/icons/list_normal.png ) no-repeat 0 0; width:15px; height:15px; 
+	border-bottom: 0px solid gray;
+	}
+#plan_schemes a.home:hover{
+	background:url(../images/icons/list_selected.png) no-repeat 0 0; width:15px; height:15px;
+	border-bottom: 0px solid gray;
+	}
+#plan_schemes a.no{
+	width: 15%;
+	float:right;
+	border-bottom: 0px solid gray;
+	}
+
+	/**********plan_planhistory**********/
+table.collapse {border-collapse: collapse;}
+
+
+#plan_planhistory{
+border-left : solid 2px #224466; 
+color:#224466;
+width : 100%; 
+height : 100%; 
+overflow : auto; 
+overflow-x: hidden;
+-ms-overflow-x: hidden;
+ position: absolute;
+   		top: 0%;
+        left: 65%;
+        float: left;
+        width: 35%;
+		height:450px;
+		text-align:left;
+}
+
+
+#plan_planhistory a{
+display: block;
+width: 100%;
+text-decoration: none;
+font-weight: bold;
+/*border-bottom: 0px solid gray;*/
+color:#224466;
+}
+
+#plan_planhistory a.simple{
+display: block;
+width: 100%;
+height:25px;
+text-decoration: none;
+font-weight: bold;
+background-image:url(../client/nav-bg.png); 
+background-repeat:repeat-x;
+color:#224466;
+}
+
+#plan_planhistory a.simple:hover{
+background-color:#84B8D0;
+}
+
+#plan_planhistory a:hover{
+background-color:#84B8D0;
+}
+
+#plan_planhistory a.home{
+	background:url(../images/icons/list_normal.png ) no-repeat 0 0; width:15px; height:15px; 
+	border-bottom: 0px solid gray;
+	}
+#plan_planhistory a.home:hover{
+	background:url(../images/icons/list_selected.png) no-repeat 0 0; width:15px; height:15px;
+	border-bottom: 0px solid gray;
+	}
+#plan_planhistory a.no{
+	width: 15%;
+	float:right;
+	border-bottom: 0px solid gray;
+	}
+	
+	
+	  .error {
+  font-family: Tahoma;
+font-size: 8pt;
+  color: red;
+  margin-left: 0px;
+  display:none;
+  }
+  

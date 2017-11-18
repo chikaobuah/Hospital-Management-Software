@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_effective" value="name:Id;datatype:int,name:Effective;datatype:datetime,name:formatted_date;datatype:string" />
+</info>
