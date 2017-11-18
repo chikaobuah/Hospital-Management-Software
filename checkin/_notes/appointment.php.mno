@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recvisitapp" value="name:Enrolee;datatype:int,name:Created;datatype:datetime,name:Visit_FK;datatype:datetime,name:Appointment;datatype:int,name:Appointment_Date;datatype:datetime,name:Status_FK;datatype:int" />
+</info>

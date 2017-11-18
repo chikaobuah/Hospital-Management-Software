@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Reclh" value="name:Id;datatype:int,name:License;datatype:int,name:Subscription;datatype:real,name:Length;datatype:int,name:License_Date;datatype:date" />
+	<infoitem key="UD_Recservice" value="name:Id;datatype:int,name:Service;datatype:string" />
+</info>

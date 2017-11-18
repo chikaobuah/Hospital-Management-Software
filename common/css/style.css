@@ -1,0 +1,26 @@
+.list {
+	list-style-type: none;
+	
+}
+
+	.list li {
+		background-color: #ccc;
+		display: block;
+		
+		
+		
+	}
+	
+		.list li:hover {
+			background-color: #84b8d0;
+		}
+		
+	.currentLink {
+		color: #fff;
+		background-color: #84b8d0 !important;
+	}
+	
+a {
+	text-decoration: none;
+	color: #224466;
+}

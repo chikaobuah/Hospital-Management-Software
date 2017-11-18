@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recvisitpris" value="name:Id;datatype:int,name:1st_Month;datatype:string,name:Short;datatype:string" />
+	<infoitem key="UD_Recvp" value="name:Enrolee;datatype:int,name:Created;datatype:datetime,name:Creator;datatype:int,name:Visit;datatype:datetime,name:Procedure;datatype:int,name:Provider;datatype:int,name:Appointment;datatype:datetime,name:Specific_Request;datatype:string,name:Specimen;datatype:int,name:Status;datatype:int" />
+	<infoitem key="UD_Recvp3" value="name:tra;datatype:int" />
+</info>

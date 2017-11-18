@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Access_Level;datatype:int" />
+	<infoitem key="UD_recuser" value="name:LId;datatype:int" />
+	<infoitem key="UD_user" value="name:Licensee_Hqs;datatype:int,name:LId;datatype:int,name:Created;datatype:datetime,name:Creator;datatype:int,name:User_Id;datatype:string,name:User_Password;datatype:string,name:User_Name;datatype:string,name:User_Enrolee_Id;datatype:int,name:Credit_Limit;datatype:real,name:Discount_Limit;datatype:real,name:Status;datatype:int,name:Status_Note;datatype:string,name:upsize_ts;datatype:timestamp" />
+</info>
