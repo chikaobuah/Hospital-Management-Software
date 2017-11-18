@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_history" value="name:Created;datatype:datetime,name:Principal;datatype:int,name:Scheme;datatype:int,name:Enrolee;datatype:int,name:formatted_date;datatype:string,name:LMP;datatype:datetime,name:Ticket_No;datatype:int,name:Loading;datatype:real,name:upsize_ts;datatype:timestamp,name:Status;datatype:int,name:Principal;datatype:int,name:Scheme;datatype:int" />
+</info>

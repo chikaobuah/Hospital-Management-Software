@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:count;datatype:int" />
+	<infoitem key="UD_note" value="name:Enrolee;datatype:int,name:Created;datatype:datetime,name:Creator;datatype:int,name:Visit;datatype:datetime,name:Note;datatype:blob,name:upsize_ts;datatype:timestamp" />
+	<infoitem key="UD_recuser" value="name:LId;datatype:int" />
+	<infoitem key="UD_count" value="name:count;datatype:int" />
+</info>

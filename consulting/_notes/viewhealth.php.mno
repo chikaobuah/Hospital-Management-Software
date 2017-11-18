@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_enrolhea" value="name:Disease;datatype:string,name:Enrolee;datatype:int,name:rel;datatype:int,name:Relationship;datatype:string" />
+</info>

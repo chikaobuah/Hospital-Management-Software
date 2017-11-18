@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_recdrug" value="name:Id;datatype:int,name:Drug;datatype:string,name:Blocks;datatype:int" />
+	<infoitem key="UD_recuser" value="name:LId;datatype:int,name:User_Id;datatype:string" />
+	<infoitem key="UD_allergy" value="name:Drug;datatype:string,name:Status;datatype:int,name:id;datatype:int" />
+	<infoitem key="UD_services2" value="name:Id;datatype:int,name:Service;datatype:string" />
+</info>

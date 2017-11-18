@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_check" value="name:Enrolee;datatype:int,name:Visit_date;datatype:datetime,name:Visit;datatype:datetime,name:Queued;datatype:datetime,name:Task;datatype:int,name:Next_task;datatype:int,name:Exited;datatype:datetime" />
+	<infoitem key="UD_task" value="name:Id;datatype:int,name:Task;datatype:string,name:Addr;datatype:blob,name:Grouporder;datatype:int,name:Sequence;datatype:int" />
+	<infoitem key="UD_task2" value="name:Id;datatype:int,name:Task;datatype:string,name:Addr;datatype:blob,name:Grouporder;datatype:int,name:Sequence;datatype:int" />
+	<infoitem key="UD_effective" value="name:Id;datatype:int,name:Effective;datatype:datetime,name:License;datatype:int" />
+	<infoitem key="UD_license" value="name:Id;datatype:int" />
+	<infoitem key="UD_client" value="name:Id;datatype:int" />
+	<infoitem key="UD_program" value="name:Id;datatype:int" />
+	<infoitem key="UD_plan" value="name:Id;datatype:int" />
+	<infoitem key="UD_principal" value="name:Id;datatype:int" />
+	<infoitem key="UD_serv" value="name:Id;datatype:int" />
+	<infoitem key="UD_procedureef" value="name:Id;datatype:int" />
+	<infoitem key="UD_licenseload" value="name:Loading;datatype:real" />
+	<infoitem key="UD_clientload" value="name:Loading;datatype:real" />
+	<infoitem key="UD_programload" value="name:Loading;datatype:real" />
+	<infoitem key="UD_principalload" value="name:Loading;datatype:real" />
+	<infoitem key="UD_servload" value="name:Loading;datatype:real" />
+	<infoitem key="UD_procedureefload" value="name:Loading;datatype:real" />
+	<infoitem key="UD_clientlic" value="name:Id;datatype:int" />
+	<infoitem key="UD_tariffs" value="name:Tariff;datatype:real" />
+</info>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_recuser" value="name:LId;datatype:int" />
+	<infoitem key="UD_visitdia" value="name:Enrolee;datatype:int,name:Creator;datatype:int,name:Visit;datatype:datetime,name:Created;datatype:datetime,name:Diagnosis_FK;datatype:int,name:Status;datatype:int,name:Disease;datatype:string" />
+	<infoitem key="UD_diagnosis" value="name:Id;datatype:int,name:Disease;datatype:string,name:Block;datatype:int" />
+	<infoitem key="UD_all" value="name:Id;datatype:int,name:Disease;datatype:string,name:Block;datatype:int" />
+</info>

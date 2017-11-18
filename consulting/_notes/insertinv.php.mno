@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_recuser" value="name:LId;datatype:int" />
+	<infoitem key="UD_providers" value="name:Client_FK;datatype:int,name:Id;datatype:int,name:Client;datatype:string,name:License;datatype:int,name:Short;datatype:string" />
+	<infoitem key="UD_idtest" value="name:Id;datatype:int,name:Effective;datatype:datetime,name:License;datatype:int" />
+	<infoitem key="UD_procedures" value="name:License;datatype:int,name:Loading;datatype:real,name:Effective;datatype:int,name:Tariff;datatype:real,name:Capitation;datatype:real,name:Status_Note;datatype:string,name:Status;datatype:int,name:Procedure_FK;datatype:int,name:Procedure;datatype:string,name:dat;datatype:datetime" />
+	<infoitem key="UD_service2" value="name:Service;datatype:string,name:Id;datatype:int,name:Blocks;datatype:int" />
+	<infoitem key="UD_visitpro" value="name:Enrolee;datatype:int,name:Created;datatype:datetime,name:Creator;datatype:int,name:Visit;datatype:datetime,name:Procedure;datatype:int,name:Provider;datatype:int,name:Appointment;datatype:datetime,name:Specific_Request;datatype:string,name:Specimen;datatype:int,name:Status;datatype:int,name:Client;datatype:string,name:pro;datatype:string,name:Service;datatype:string,name:Short;datatype:string" />
+	<infoitem key="UD_service" value="name:Service;datatype:string,name:Id;datatype:int,name:Blocks;datatype:int" />
+	<infoitem key="UD_effective" value="name:Id;datatype:int,name:Effective;datatype:datetime,name:License;datatype:int" />
+	<infoitem key="UD_sechemetest" value="name:Id;datatype:int,name:Procedure_FK;datatype:int,name:Status;datatype:int,name:Status_Note;datatype:string,name:Capitation;datatype:real,name:Tariff;datatype:real,name:Effective;datatype:int,name:Loading;datatype:real,name:License;datatype:int" />
+	<infoitem key="UD_check" value="name:Enrolee;datatype:int,name:Visit_date;datatype:datetime,name:Visit;datatype:datetime,name:Queued;datatype:datetime,name:Task;datatype:int,name:Next_task;datatype:int,name:Exited;datatype:datetime" />
+	<infoitem key="UD_task" value="name:Id;datatype:int,name:Task;datatype:string,name:Addr;datatype:blob,name:Grouporder;datatype:int,name:Sequence;datatype:int" />
+	<infoitem key="UD_task2" value="name:Id;datatype:int,name:Task;datatype:string,name:Addr;datatype:blob,name:Grouporder;datatype:int,name:Sequence;datatype:int" />
+	<infoitem key="UD_proch" value="name:Id;datatype:int,name:Procedure;datatype:string,name:Blocks;datatype:int,name:Specimen;datatype:int,name:Service_direction_FK;datatype:int" />
+	<infoitem key="UD_prosh" value="name:Id;datatype:int,name:Service;datatype:string,name:Blocks;datatype:int,name:GL_Account;datatype:int,name:Direction;datatype:int,name:Loading;datatype:real,name:Short;datatype:string,name:Task_FK;datatype:int" />
+	<infoitem key="UD_license" value="name:Id;datatype:int" />
+	<infoitem key="UD_client" value="name:Id;datatype:int" />
+	<infoitem key="UD_program" value="name:Id;datatype:int" />
+	<infoitem key="UD_plan" value="name:Id;datatype:int" />
+	<infoitem key="UD_principal" value="name:Id;datatype:int" />
+	<infoitem key="UD_serv" value="name:Id;datatype:int" />
+	<infoitem key="UD_procedureef" value="name:Id;datatype:int" />
+	<infoitem key="UD_licenseload" value="name:Loading;datatype:real" />
+	<infoitem key="UD_clientload" value="name:Loading;datatype:real" />
+	<infoitem key="UD_programload" value="name:Loading;datatype:real" />
+	<infoitem key="UD_principalload" value="name:Loading;datatype:real" />
+	<infoitem key="UD_servload" value="name:Loading;datatype:real" />
+	<infoitem key="UD_procedureefload" value="name:Loading;datatype:real" />
+	<infoitem key="UD_recsheme" value="name:Program;datatype:string,name:Program_FK;datatype:int,name:scheme_FK;datatype:int,name:LId;datatype:real,name:Client;datatype:string,name:Short;datatype:string,name:Contact;datatype:string,name:Contact_Mobile_Phone;datatype:string,name:Contact_Business_Phone;datatype:string,name:Scheme;datatype:string" />
+	<infoitem key="UD_clientlic" value="name:Id;datatype:int" />
+	<infoitem key="UD_tariffs" value="name:Tariff;datatype:real" />
+	<infoitem key="UD_planload" value="name:Loading;datatype:real" />
+</info>

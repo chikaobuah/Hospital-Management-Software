@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_familylist" value="name:Relationship;datatype:string,name:Enrolee;datatype:int,name:Disease;datatype:string,name:dis_FK;datatype:int,name:Status;datatype:int,name:Created;datatype:datetime" />
+	<infoitem key="UD_relationship" value="name:Id;datatype:int,name:Relationship;datatype:string,name:Gender;datatype:int" />
+	<infoitem key="UD_disease" value="name:Id;datatype:int,name:Disease;datatype:string,name:Block;datatype:int" />
+</info>

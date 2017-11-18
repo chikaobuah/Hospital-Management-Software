@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_recdrug" value="name:Id;datatype:int,name:Drug;datatype:string,name:Blocks;datatype:int" />
+	<infoitem key="UD_recuser" value="name:LId;datatype:int,name:User_Id;datatype:string" />
+</info>

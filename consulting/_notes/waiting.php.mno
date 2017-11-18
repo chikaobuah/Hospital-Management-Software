@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_recage" value="name:CURDATE();datatype:date,name:age;datatype:int" />
+	<infoitem key="UD_scheme" value="name:Program;datatype:string,name:Program_FK;datatype:int,name:Client;datatype:string,name:Scheme;datatype:string" />
+	<infoitem key="UD_counts" value="name:Amount;datatype:real,name:Notes;datatype:string,name:Licensee;datatype:int,name:Effective_FK;datatype:int" />
+	<infoitem key="UD_amount" value="name:Amount;datatype:real,name:Notes;datatype:string,name:Licensee;datatype:int,name:Effective_FK;datatype:int" />
+	<infoitem key="UD_amount2" value="name:Amount;datatype:real,name:Notes;datatype:string,name:Licensee;datatype:int,name:Effective_FK;datatype:int" />
+</info>
